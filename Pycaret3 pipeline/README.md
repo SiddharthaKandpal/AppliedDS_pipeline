@@ -27,7 +27,7 @@ The pipeline consists of the following steps:
 6. Visualize the trained ensemble model using PyCaret's `plot_model()` function.
 7. Make predictions on new data by creating a new dataset consisting of the first 10 rows of the penguins dataset with the target variable removed and calling PyCaret's `predict_model()` function with the trained ensemble model and the new dataset as parameters.  
 ## DOCUMENTATION  
-[.ipynb file to test run] ()  
+[.ipynb file to test run](https://github.com/SiddharthaKandpal/AppliedDS_pipeline/blob/main/Pycaret3%20pipeline/PycaretPipeline.ipynb)  
 ## IMAGES  
 ![image](https://user-images.githubusercontent.com/78250442/233314271-21b96353-368d-4b1b-aec1-96ec4c897d0a.png)  
 ![image](https://user-images.githubusercontent.com/78250442/233314423-c5e13252-d98f-4d6a-a54a-53070e484b09.png)  
